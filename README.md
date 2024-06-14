@@ -1,3 +1,3 @@
-# View_Component
+# ViewComponent
 Repository for view components
 
